@@ -128,6 +128,9 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# PyCharm
+.idea/
+
 # tensorflow checkpoints
 checkpoint
 *.data-*-of-*
@@ -135,3 +138,4 @@ checkpoint
 
 # predictions
 pred/
+logs/
