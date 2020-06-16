@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# tensorflow checkpoints
+checkpoint
+*.data-*-of-*
+*.index
+
+# predictions
+pred/
